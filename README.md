@@ -1,5 +1,5 @@
 # Ferramenta de Controle de Investimentos
-Criando uma Ferramenta de Controle de Investimentos com Excel
+Criando uma Ferramenta de Controle de Investimentos com Excel (FIIs)
 
 - Simulador de valores para investimento com possibilidade de se observar a evolução patrimonial  
 - Cenários personalizados  
